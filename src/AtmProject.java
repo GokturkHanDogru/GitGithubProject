@@ -6,5 +6,7 @@ public class AtmProject {
         //Version2
         System.out.println("Using of Lambda is good advantage");
         //Version3
+        System.out.println("Selenium Tools should be lerand");
+        //Version4
     }
 }
