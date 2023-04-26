@@ -4,5 +4,7 @@ public class AtmProject {
         //Version1
         System.out.println("Java is a good coding Language");
         //Version2
+        System.out.println("Using of Lambda is good advantage");
+        //Version3
     }
 }
