@@ -10,5 +10,7 @@ public class AtmProject {
         //Version4
         System.out.println("Branch Gokturk on stage");
         //Version gktrk1
+        System.out.println("Contionue to coding");
+        //Version gktrk2
     }
 }
