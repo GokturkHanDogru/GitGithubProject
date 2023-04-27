@@ -17,6 +17,8 @@ public class AtmProject {
         System.out.println("yepp");
         //Version gktrk4
         System.out.println("Changes");
-        //VErsion gktrk5
+        //Version gktrk5
+        System.out.println("Changed by another Developer in remote");
+        //Version Remote
     }
 }
